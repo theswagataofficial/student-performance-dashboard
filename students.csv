@@ -1,0 +1,27 @@
+student_id,course,study_hours,score
+S001,Python,2,58
+S002,Python,3,65
+S003,Python,4,72
+S004,Python,5,78
+S005,Python,6,84
+S006,Python,7,89
+S007,Python,1,48
+S008,Python,8,93
+S009,Data Structures,2,55
+S010,Data Structures,3,63
+S011,Data Structures,4,70
+S012,Data Structures,5,76
+S013,Data Structures,6,82
+S014,Data Structures,7,87
+S015,Data Structures,8,91
+S016,Data Structures,1,45
+S017,Mathematics,2,60
+S018,Mathematics,3,67
+S019,Mathematics,4,73
+S020,Mathematics,5,80
+S021,Mathematics,6,85
+S022,Mathematics,7,90
+S023,Mathematics,8,96
+S024,Mathematics,1,50
+S025,Python,9,100
+S026,Data Structures,10,35
